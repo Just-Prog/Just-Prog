@@ -4,6 +4,6 @@
 -->
 
 ![新篇](https://s2.loli.net/2023/06/25/Myg8IZ2aAtNXdOR.jpg)
-> Illustrate by A-SOUL, posted by "A-SOUL Re-Creation Project" [Original Picture](https://t.bilibili.com/731241194755981361)
+> Illustrate by A-SOUL, forwarded from "asoul二创计画" [Original Picture](https://t.bilibili.com/731241194755981361)
 >
-> 不要回头。
+> 不要回头，大步向前

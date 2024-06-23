@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=just-prog&label=Profile%20views&color=0e75b6&style=flat" alt="just-prog" /> </p>
 
-- 🔭 I’m currently working for [A-SOUL-Re-creation-Plan (asoul二创计画) as Project Maintainer & Cover Designer & Live Stream Recorder](https://github.com/A-SOUL-Re-creation-Plan)
+- 🔭 I’m currently working for [A-SOUL-Re-creation-Plan (asoul二创计画)](https://github.com/A-SOUL-Re-creation-Plan) as Project Maintainer & Cover Designer & Live Stream Recorder
 
 - 🌱 I’m currently learning **Vue3 / Element-Plus / Arco Design / Flask (Python) / Spring (Java) / Electron / requests (Python)**
 

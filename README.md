@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working for [A-SOUL-Re-creation-Plan (asoul二创计画)](https://github.com/A-SOUL-Re-creation-Plan) as Software Developer & Cover Designer & Live Stream Recorder
 
+- 🍬 I’m currently working for Diana WEEKLY (嘉心糖周报) as Art Designer
+
+- 🥣 I used to work at DWR WEEKLY (顶碗人周报) as Cover Designer
+
 - 🌱 I’m currently learning **Vue3 / Element-Plus / Arco Design / Flask (Python) / Spring (Java) / Electron / requests (Python)**
 
 - 🤔 I'm also working on [Bilibili_show_ticket_auto_order](https://github.com/Just-Prog/Bilibili_show_ticket_auto_order)

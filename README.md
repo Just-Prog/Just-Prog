@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ProG</h1>
 <h3 align="center">INFINITE PROGRESS</h3>
 
-<p align="center"> Viewer Counter: <img src="https://komarev.com/ghpvc/?username=just-prog&label=Profile%20views&color=0e75b6&style=flat" alt="just-prog" /> </p>
+<p align="center"> <img src="https://count.getloli.com/@Just-Prog?name=Just-Prog&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="just-prog" /> </p>
 
 ## Works Experience
 

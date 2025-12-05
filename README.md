@@ -19,10 +19,14 @@
 
 - 🌱 I’m currently learning **Vue3 / Pinia  / Flask (Python) / SpringBoot & SpringMVC (Java) / Electron / Flutter / Kotlin Multiplatform**
 
-- 🤔 This is my keep-maintaining litle script [Bilibili_show_ticket_auto_order](https://github.com/Just-Prog/Bilibili_show_ticket_auto_order)
+- Here's my co-operated project with DianaWeekly: [Diana Radio 嘉然电台 FM.307](https://github.com/Just-Prog/Diana-Radio-NEXT)
+
+- 🤔 This is my keep-maintaining python script for Pilipala Ticket Platform [Bilibili_show_ticket_auto_order](https://github.com/Just-Prog/Bilibili_show_ticket_auto_order)
 
 - 📝 This is my **dusted** blog [https://blog.justprog.eu.org](https://blog.justprog.eu.org) (IDK what to write QAQ)
 
 - ⚡ BTW... **Subscribe Diana plz 🍓**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.justprog.eu.org/api?username=just-prog&show_icons=true&locale=cn" alt="just-prog" /></p>
+
+- That's all.

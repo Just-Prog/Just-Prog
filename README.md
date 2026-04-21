@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://count.getloli.com/@Just-Prog?name=Just-Prog&theme=asoul&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="just-prog" /> </p>
 
+<p align="center"> <img src="https://dxrating.luoling.moe/api/luoxue/genImage/962330569571191" alt="awmc" </p>
+  
 ## Works Experience
 
 - 🔭 I once worked at in Xiamen NexSea Tech Co. Ltd. / Beijing Lize Jiaxing Tech Co. Ltd as Frontend Developer (React / React Native) (Summer Vacation Internship).

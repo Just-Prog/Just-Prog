@@ -7,7 +7,8 @@
   
 ## Works Experience
 
-- 🔭 I once worked at in Xiamen NexSea Tech Co. Ltd. / Beijing Lize Jiaxing Tech Co. Ltd as Frontend Developer (React / React Native) (Summer Vacation Internship).
+- 🔭 Frontend Developer (React / React Native / Next.JS) - Beijing Lize Jiaxing Tech Co. Ltd (Summer Vacation Internship) - 2025 Summer
+- WHEN WILL THE NEXT? IDK
 
 ## About VTubers
 

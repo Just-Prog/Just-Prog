@@ -10,13 +10,11 @@
 - 🔭 Frontend Developer (React / React Native / Next.JS) - Beijing Lize Jiaxing Tech Co. Ltd (Summer Vacation Internship) - 2025 Summer
 - WHEN WILL THE NEXT? IDK
 
-## About VTubers
+## About A-SOUL?
 
-- 🔭 I’m currently working for [A-SOUL-Re-creation-Plan (asoul二创计画)](https://github.com/A-SOUL-Re-creation-Plan) as Software Developer & Cover Designer & Live Stream Recorder
+- 🔭 I’m currently working for [A-SOUL-Re-creation-Plan](https://github.com/A-SOUL-Re-creation-Plan)/[Asoul二创计画](https://space.bilibili.com/547510303) as Software Developer & Cover Designer & Live Stream Recorder
 
-- 🍬 I’m currently working for Diana WEEKLY (嘉心糖周报) & Bella Fan WEEKLY / Bellaris Space Station (贝极星周报) as Art/Video Cover Designer
-
-- 🥣 I used to work at DWR WEEKLY (顶碗人周报) as Cover Designer
+- 🍬 I’m currently working for Diana WEEKLY (嘉心糖周报) & Bellaris WEEKLY (贝极星周报) & Eileen Weekly (奶淇琳周报-见习) as Art/Video Cover Designer
 
 ## About Tech Stacks
 
@@ -26,10 +24,10 @@
 
 - 🤔 This is my keep-maintaining python script for Pilipala Ticket Platform [Bilibili_show_ticket_auto_order](https://github.com/Just-Prog/Bilibili_show_ticket_auto_order)
 
-- 📝 This is my **dusted** blog [https://blog.justprog.eu.org](https://blog.justprog.eu.org) (IDK what to write QAQ)
+- 🤓 This is my **dusted** blog [https://blog.justprog.eu.org](https://blog.justprog.eu.org)
 
 - ⚡ BTW... **Subscribe Diana plz 🍓**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.justprog.eu.org/api?username=just-prog&show_icons=true&locale=cn" alt="just-prog" /></p>
-
 - That's all.
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.justprog.eu.org/api?username=just-prog&show_icons=true&locale=cn" alt="just-prog" /></p>

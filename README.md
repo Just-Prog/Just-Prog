@@ -13,7 +13,7 @@
 
 ## About A-SOUL?
 
-- 🔭 I’m currently working for [A-SOUL-Re-creation-Plan](https://github.com/A-SOUL-Re-creation-Plan)/[Asoul二创计画](https://space.bilibili.com/547510303) as Software Developer & Cover Designer & Live Stream Recorder & Tech Support. [Panel2Re] is one of our keep-maintaining tools for Bilibili VTuber/VUP fans group, built with Vue v3 & Arco Design & Electron.
+- 🔭 I’m currently working for [A-SOUL-Re-creation-Plan](https://github.com/A-SOUL-Re-creation-Plan)/[Asoul二创计画](https://space.bilibili.com/547510303) as Software Developer & Cover Designer & Live Stream Recorder & Tech Support. [Panel2Re](https://github.com/A-SOUL-Re-creation-Plan/Panel2ReWebApp) is one of our keep-maintaining tools for Bilibili VTuber/VUP fans group, built with Vue v3 & Arco Design & Electron.
 
 - 🍬 I’m also currently working for Diana WEEKLY (嘉心糖周报) & Bellaris Space Station aka. Bella Weekly (贝极星周报) & Eileen Weekly (奶淇琳周报) as Activities Poster / Video Cover Designer.
 
